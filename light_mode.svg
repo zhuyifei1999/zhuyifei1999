@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
+.titleColor {fill: #4e9a06; font-weight: bold;}
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
 .addColor {fill: #1a7f37;}
@@ -8,58 +9,54 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="970px" height="490px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
-<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="230">  ]@@@@@'&quot;*TTTTT'F  ]Wl|||''&quot;'$]@@@@ </tspan>
-<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="290">     lL         T&quot;||||!   `-    l&quot;'  </tspan>
-<tspan x="15" y="310">     ' |        '||l||||&quot;|L|  L `         </tspan>
-<tspan x="15" y="330">      ''   '|L++=*****&quot;&quot;*&quot;||` L|</tspan>
-<tspan x="15" y="350">        |           ,,      |||F               </tspan>
-<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="390">          !                |l&amp;L            </tspan>
-<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
+<tspan x="15" y="30">                                       </tspan>
+<tspan x="15" y="50">         1   rrJZZddZdZZd/   a@Md&lt;     </tspan>
+<tspan x="15" y="70">      dMMMaa@MMdZdaaJZdaMddJM@@@@aa@l  </tspan>
+<tspan x="15" y="90">    JZMMMM@@MadMd@M@@aMaMdM@M@@@@McM@c </tspan>
+<tspan x="15" y="110">   ad@@@@@@@@MM@@@@@@@@aM@MM@@@@@@aZ@@ </tspan>
+<tspan x="15" y="130">  @@a@a@@@@Md@@@@@@@@@Z@MMM@@@M@@@add@@</tspan>
+<tspan x="15" y="150"> @@@a@a@@M@@MJM@@@@@aaZ@@@MaM@@@@@a.   </tspan>
+<tspan x="15" y="170">M@    Z@a@@@@@@@@@@@@@@@@@@@@@@@a-.    </tspan>
+<tspan x="15" y="190">       a@@@@@@@@@@@@@@@Z@@@aJc@@@M&lt;... </tspan>
+<tspan x="15" y="210">       @M@@@@@@@aM@@@MM@@M@MMcc@aa.....</tspan>
+<tspan x="15" y="230">       l@M@@@@@MMdMMdMd@@@@@d-Z@M......</tspan>
+<tspan x="15" y="250">         ZM@aMaM@M@@@MJdaacr/dZr......l</tspan>
+<tspan x="15" y="270">          1dJ@dZdacdd@ZrJJ&lt;-MZ.......@@</tspan>
+<tspan x="15" y="290">     .&lt;. .ldM@@@@@@@aJdac/Jc.......-..a</tspan>
+<tspan x="15" y="310">      .   Jaa@@@@@@MaZJacr.......&lt;,..l@</tspan>
+<tspan x="15" y="330">   .     ..M@ZddcaMMaJaMd......c1....@@</tspan>
+<tspan x="15" y="350">    .....l...&lt;JM@@Md&lt;.,,.....rc.....d@@</tspan>
+<tspan x="15" y="370">,-...lrrr/,...,.....,,....ca.......d@@d</tspan>
+<tspan x="15" y="390">          &lt;....,,,....&lt;/r,.........1JZd</tspan>
+<tspan x="15" y="410">           ,.,&lt;-&lt;1&lt;11/-l.............r/</tspan>
+<tspan x="15" y="430">              l/&lt;l&lt;-&lt;&lt;l................</tspan>
+<tspan x="15" y="450">               &lt;&lt;lll&lt;..,...............</tspan>
+<tspan x="15" y="470">               &lt;-1&lt;l,,.l...............</tspan>
 </text>
 
-<text x="370" y="30" fill="#24292f">
-<tspan x="370" y="30">andrew@grant</tspan>
-<tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 5 months, 29 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
-<tspan x="370" y="330" class="keyColor">Contact</tspan>:
-<tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
-<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
-<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,114  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">303</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">165 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">446,256</tspan> (<tspan class="addColor">523,047++</tspan>, <tspan class="delColor">76,791--</tspan>)
+<text x="400" y="30" fill="#24292f">
+<tspan x="400" y="30" class="titleColor">zhuyifei1999@github</tspan>
+<tspan x="400" y="50">——————</tspan>
+<tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Gentoo Linux</tspan>
+<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">12 years, 4 months, 29 days</tspan><tspan class="commentColor"> # GitHub</tspan>
+<tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Google LLC.</tspan>
+<tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Linux Kernel Networking Engineer</tspan>
+<tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Pulsar-Edit, GNU nano</tspan>
+<tspan x="400" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Work</tspan>: <tspan class="valueColor">C, Bash, Assembly</tspan>
+<tspan x="400" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Hobby</tspan>: <tspan class="valueColor">_ += Python, JS, Lua</tspan>
+<tspan x="400" y="250" class="keyColor">Hobbies</tspan>: <tspan class="valueColor">Linux Kernel, UEFI, Game Modding &amp; RE</tspan>
+<tspan x="400" y="290" class="keyColor">Contact</tspan>:
+<tspan x="400" y="310">——————</tspan>
+<tspan x="400" y="330" class="keyColor">Email</tspan>.<tspan class="keyColor">Self</tspan>: <tspan class="valueColor">zhuyifei1999@gmail.com</tspan>
+<tspan x="400" y="350" class="keyColor">Email</tspan>.<tspan class="keyColor">Work</tspan>: <tspan class="valueColor">zhuyifei@google.com</tspan>
+<tspan x="400" y="370" class="keyColor">Discord</tspan>: <tspan class="valueColor">zhuyifei1999</tspan>
+<tspan x="400" y="410" class="keyColor">GitHub Stats</tspan>:
+<tspan x="400" y="430">——————</tspan>
+<tspan x="400" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">64</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">210</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">3,631  </tspan>
+<tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6,394,812</tspan> (<tspan class="addColor">8,224,483++</tspan>, <tspan class="delColor">1,829,671--</tspan>)
 </text>
 
 </svg>
