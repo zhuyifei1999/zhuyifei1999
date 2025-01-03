@@ -55,8 +55,8 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="370" class="keyColor">Discord</tspan>: <tspan class="valueColor">zhuyifei1999</tspan>
 <tspan x="400" y="410" class="keyColor">GitHub Stats</tspan>:
 <tspan x="400" y="430">——————</tspan>
-<tspan x="400" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">64</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">210</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">3,630  </tspan>
-<tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6,394,676</tspan> (<tspan class="addColor">8,224,725++</tspan>, <tspan class="delColor">1,830,049--</tspan>)
+<tspan x="400" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">64</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">210</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">3,632  </tspan>
+<tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6,394,893</tspan> (<tspan class="addColor">8,224,950++</tspan>, <tspan class="delColor">1,830,057--</tspan>)
 </text>
 
 </svg>
