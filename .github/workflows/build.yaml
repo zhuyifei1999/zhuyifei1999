@@ -35,3 +35,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Updated README
+          commit_author: 'today.py <today.py>'

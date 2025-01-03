@@ -13,35 +13,35 @@ text, tspan {white-space: pre;}
 
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">                                       </tspan>
-<tspan x="15" y="50">         1   rrJZZddZdZZd/   a@Md&lt;     </tspan>
-<tspan x="15" y="70">      dMMMaa@MMdZdaaJZdaMddJM@@@@aa@l  </tspan>
-<tspan x="15" y="90">    JZMMMM@@MadMd@M@@aMaMdM@M@@@@McM@c </tspan>
-<tspan x="15" y="110">   ad@@@@@@@@MM@@@@@@@@aM@MM@@@@@@aZ@@ </tspan>
-<tspan x="15" y="130">  @@a@a@@@@Md@@@@@@@@@Z@MMM@@@M@@@add@@</tspan>
-<tspan x="15" y="150"> @@@a@a@@M@@MJM@@@@@aaZ@@@MaM@@@@@a.   </tspan>
-<tspan x="15" y="170">M@    Z@a@@@@@@@@@@@@@@@@@@@@@@@a-.    </tspan>
-<tspan x="15" y="190">       a@@@@@@@@@@@@@@@Z@@@aJc@@@M&lt;... </tspan>
-<tspan x="15" y="210">       @M@@@@@@@aM@@@MM@@M@MMcc@aa.....</tspan>
-<tspan x="15" y="230">       l@M@@@@@MMdMMdMd@@@@@d-Z@M......</tspan>
-<tspan x="15" y="250">         ZM@aMaM@M@@@MJdaacr/dZr......l</tspan>
-<tspan x="15" y="270">          1dJ@dZdacdd@ZrJJ&lt;-MZ.......@@</tspan>
-<tspan x="15" y="290">     .&lt;. .ldM@@@@@@@aJdac/Jc.......-..a</tspan>
-<tspan x="15" y="310">      .   Jaa@@@@@@MaZJacr.......&lt;,..l@</tspan>
-<tspan x="15" y="330">   .     ..M@ZddcaMMaJaMd......c1....@@</tspan>
-<tspan x="15" y="350">    .....l...&lt;JM@@Md&lt;.,,.....rc.....d@@</tspan>
-<tspan x="15" y="370">,-...lrrr/,...,.....,,....ca.......d@@d</tspan>
-<tspan x="15" y="390">          &lt;....,,,....&lt;/r,.........1JZd</tspan>
-<tspan x="15" y="410">           ,.,&lt;-&lt;1&lt;11/-l.............r/</tspan>
-<tspan x="15" y="430">              l/&lt;l&lt;-&lt;&lt;l................</tspan>
-<tspan x="15" y="450">               &lt;&lt;lll&lt;..,...............</tspan>
-<tspan x="15" y="470">               &lt;-1&lt;l,,.l...............</tspan>
+<tspan x="15" y="50">                                       </tspan>
+<tspan x="15" y="70">                                       </tspan>
+<tspan x="15" y="90">                                       </tspan>
+<tspan x="15" y="110">                .......     .^.        </tspan>
+<tspan x="15" y="130">      .!5P?YPGBBBBBBBBBGG5YG#&amp;&amp;B5?.    </tspan>
+<tspan x="15" y="150">    .Y#&amp;&amp;#&amp;&amp;&amp;##########B####&amp;&amp;&amp;&amp;##&amp;?   </tspan>
+<tspan x="15" y="170">   !#####&amp;&amp;&amp;#####&amp;&amp;&amp;&amp;&amp;#######&amp;&amp;&amp;#B#&amp;!  </tspan>
+<tspan x="15" y="190">  ^&amp;&amp;#&amp;#&amp;&amp;&amp;#BB&amp;&amp;&amp;&amp;&amp;&amp;##&amp;#####&amp;&amp;&amp;&amp;&amp;#PGBY:</tspan>
+<tspan x="15" y="210"> ?&amp;#GG##&amp;&amp;&amp;&amp;#B&amp;&amp;&amp;&amp;&amp;&amp;GB#&amp;&amp;###&amp;&amp;&amp;#5^     </tspan>
+<tspan x="15" y="230"> :.    ?##&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;#####&amp;&amp;#5^     </tspan>
+<tspan x="15" y="250">       7&amp;#&amp;&amp;&amp;&amp;&amp;&amp;###&amp;&amp;&amp;######5#&amp;#G^.    </tspan>
+<tspan x="15" y="270">       :B&amp;&amp;&amp;&amp;&amp;&amp;########&amp;&amp;&amp;#B5##5:....YG</tspan>
+<tspan x="15" y="290">         !B##########BGBBGPGBG!....:?B&amp;</tspan>
+<tspan x="15" y="310">          ^B######BB#BGPPYPP?:...^~?#&amp;&amp;</tspan>
+<tspan x="15" y="330">          7###&amp;&amp;&amp;&amp;&amp;#BBBGPY7^...^7!:!#&amp;#</tspan>
+<tspan x="15" y="350">          ~#####&amp;&amp;##BBBBY^...~7!^ :5&amp;&amp;B</tspan>
+<tspan x="15" y="370">   ...:^^~!?55PB##BPYJY7:.:!?7^..:P&amp;&amp;#B</tspan>
+<tspan x="15" y="390">:^...::^~??!!!!777777!~!?JJ~.....~#&amp;#BB</tspan>
+<tspan x="15" y="410">          :!~!77?JY5555Y7^.......^JGGB?</tspan>
+<tspan x="15" y="430">              ^!?YY5YY7~:.........:7J7~</tspan>
+<tspan x="15" y="450">               !JJJJ?7!~^........:.^^~~</tspan>
+<tspan x="15" y="470">              .:?J???!!~^:.......::^^^~</tspan>
 </text>
 
 <text x="400" y="30" fill="#24292f">
 <tspan x="400" y="30" class="titleColor">zhuyifei1999@github</tspan>
 <tspan x="400" y="50">——————</tspan>
 <tspan x="400" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Gentoo Linux</tspan>
-<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">12 years, 4 months, 29 days</tspan><tspan class="commentColor"> # GitHub</tspan>
+<tspan x="400" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">12 years, 4 months, 29 days</tspan><tspan class="commentColor">  # GitHub</tspan>
 <tspan x="400" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Google LLC.</tspan>
 <tspan x="400" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Linux Kernel Networking Engineer</tspan>
 <tspan x="400" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Pulsar-Edit, GNU nano</tspan>
@@ -55,8 +55,8 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="370" class="keyColor">Discord</tspan>: <tspan class="valueColor">zhuyifei1999</tspan>
 <tspan x="400" y="410" class="keyColor">GitHub Stats</tspan>:
 <tspan x="400" y="430">——————</tspan>
-<tspan x="400" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">64</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">210</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">3,632  </tspan>
-<tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6,394,893</tspan> (<tspan class="addColor">8,224,950++</tspan>, <tspan class="delColor">1,830,057--</tspan>)
+<tspan x="400" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">64</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">210</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">3,633  </tspan>
+<tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6,394,893</tspan> (<tspan class="addColor">8,224,956++</tspan>, <tspan class="delColor">1,830,063--</tspan>)
 </text>
 
 </svg>
